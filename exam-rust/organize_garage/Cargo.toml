@@ -1,0 +1,6 @@
+[package]
+name = "organize_garage"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
